@@ -13,7 +13,7 @@ A full-stack application built with MERN (MongoDB/SQLite, Express, React, Node.j
 
 ### Backend
 - Node.js & Express.js
-- SQLite Database
+- SQLite Database ( MongoDB was unsuccessful due to database interaction issues)
 - JWT Authentication
 - Multer (File Upload)
 - CSV Parser & XLSX (File Processing)
